@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(27, 117, 208);
+    background-color: rgb(255, 255, 255);
     font-family: Mont;
     margin: 0
 }
@@ -26,7 +26,7 @@ hr {
     width: 400px;
     margin: 40px auto;
     margin-top: 137px;
-    background-color: #bbc6c7;
+    background-color: gray;
     box-shadow: 0 5px 10px #3f4343;
     border-radius: 10px;
     padding: 20px;
@@ -43,29 +43,29 @@ hr {
 .card-title {
     font-size: 40px;
     text-align: center;
-    color: #073843;
+    color: #111;
 }
 
 .card-subtitle {
     font-size: 25px;
     text-align: center;
-    color: #073843;
+    color: #111;
 }
 
 .card-text {
-    color: #073843;
+    color: #111;
     font-size: 18px;
 }
 
 .othercard-text {
-    color: #073843;
+    color: #111;
     text-align: center;
     font-size: 18px;
 }
 
 .text {
     font-size: 30px;
-    color: #073843;
+    color: #111;
     text-align: left;
     margin-left: 50px;
     margin-top: 138px;
@@ -73,7 +73,7 @@ hr {
 
 .text1 {
     font-size: 30px;
-    color: #073843;
+    color: #111;
     text-align: left;
     margin-left: 50px;
     margin-top: 34px;
@@ -81,7 +81,7 @@ hr {
 
 .card1 {
     width: 250px;
-    background-color: #bbc6c7;
+    background-color: gray;
     box-shadow: 0 5px 10px #3f4343;
     border-radius: 10px;
     padding: 20px;
@@ -93,7 +93,7 @@ hr {
 
 .card2 {
     width: 250px;
-    background-color: #bbc6c7;
+    background-color: gray;
     box-shadow: 0 5px 10px #3f4343;
     border-radius: 10px;
     padding: 20px;
@@ -105,7 +105,7 @@ hr {
 
 .card3 {
     width: 250px;
-    background-color: #bbc6c7;
+    background-color: gray;
     box-shadow: 0 5px 10px #3f4343;
     border-radius: 10px;
     padding: 20px;
@@ -117,7 +117,7 @@ hr {
 
 .card4 {
     width: 250px;
-    background-color: #bbc6c7;
+    background-color: gray;
     box-shadow: 0 5px 10px #3f4343;
     border-radius: 10px;
     padding: 20px;
@@ -129,7 +129,7 @@ hr {
 
 .card5 {
     width: 250px;
-    background-color: #bbc6c7;
+    background-color: gray;
     box-shadow: 0 5px 10px #3f4343;
     border-radius: 10px;
     padding: 20px;
@@ -167,23 +167,30 @@ hr {
 
 .nav-link {
     text-decoration: none;
+    color: white;
 }
 
 .nav-link1 {
     margin-left: 145px;
     text-decoration: none;
+    color: white;
 }
 
 .topnav a:hover{
-    border-bottom: 2px solid #0a00ff;
+    border-bottom: 2px solid white;
 }
 
 .icon {
     text-decoration: none;
     margin-left: 450px;
+    color: white;
 }
 
 .icon1 {
     text-decoration: none;
     margin-left: 1250px;
+}
+
+.list {
+    margin-top: -102px;
 }
