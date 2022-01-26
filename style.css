@@ -145,6 +145,37 @@ hr {
     margin-top: -138px;
 }
 
+.logos {
+    display:block;
+    width: 200px;
+    height: 200px;
+    margin-left: 112px;
+    border-radius: 50%;
+}
+
+.logos1 {
+    display:block;
+    width: 200px;
+    height: 200px;
+    margin-left: 489px;
+    border-radius: 50%;
+}
+
+.logos2 {
+    display:block;
+    width: 200px;
+    height: 200px;
+    margin-left: 1319px;
+}
+
+.logos3 {
+    display:block;
+    width: 250px;
+    height: 250px;
+    margin-left: 888px;
+    margin-top: -29px;
+}
+
 .grafic-logo {
     max-width: 100%;
     box-sizing: border-box;
@@ -168,12 +199,14 @@ hr {
 .nav-link {
     text-decoration: none;
     color: white;
+    box-sizing: border-box;
 }
 
 .nav-link1 {
     margin-left: 145px;
     text-decoration: none;
     color: white;
+    box-sizing: border-box;
 }
 
 .topnav a:hover{
@@ -184,6 +217,7 @@ hr {
     text-decoration: none;
     margin-left: 450px;
     color: white;
+    box-sizing: border-box;
 }
 
 .icon1 {
@@ -193,4 +227,27 @@ hr {
 
 .list {
     margin-top: -102px;
+}
+
+.paragraph {
+    margin-left: 131px;
+    font-size: 18px;
+}
+
+.paragraph1 {
+    margin-left: 569px;
+    margin-top: -243px;
+    font-size: 18px;
+}
+
+.paragraph2 {
+    margin-left: 1335px;
+    margin-top: -243px;
+    font-size: 18px;
+}
+
+.paragraph3 {
+    margin-left: 911px;
+    margin-top: -243px;
+    font-size: 18px;
 }
